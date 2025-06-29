@@ -1,0 +1,1 @@
+An **ordered set** is a set $S$ in which an [[order]] is defined.
