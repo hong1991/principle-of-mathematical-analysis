@@ -1,0 +1,5 @@
+By a **sequence**, we mean a [[function]] $f$ defined on the set $J$ of all positive integers. If $f(n)=x_n$, for $n\in J$, itis customary to denote the sequence $f$ by the symbol $\{x_n\}$, or sometimes by $x_1,x_2,x_3,...$. The values of $f$, that is, the elements $x_n$, are called the **terms** of the sequence. If $A$ is a set and if $x_n\in A$ for all $n\in J$, then $\{x_n\}$ is said to be **sequence in $A$**, or a **sequence of elements of $A$**.
+
+Since every [[countable]] set is the range of a 1-1 function defined on $J$, we may regard every countable set as the range of a sequence of distinct terms. Speaking more loosely, we may say that the elements of any countable set can be "aranged in a sequence."
+
+Somethimes it is convenient to replace $J$ in this definition by the set of all nonnegative integers, i.e., to start with $0$ rather than with $1$.
