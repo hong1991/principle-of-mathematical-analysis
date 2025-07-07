@@ -12,4 +12,4 @@ If $q$ is in $B$ then $p^2-2>0$, $(3)$ shows that $0<q<p$, and $(4) shows that $
 Thus $A$ contains no largest number and $B$ contains no smallest number.
 
 **Remark** 
-The example above has been to show that the rational number system has certain gaps, in spite of the fact that between any two rationals there is another: If $r<s$ then $r<(r+s)/2<s$. The [[real number system]] fills these gaps. This is the principal reason for the fundamental role which it plays in analysis.
+The example above has been to show that the rational number system has certain gaps, in spite of the fact that between any two rationals there is another: If $r<s$ then $r<(r+s)/2<s$. The [[real field|real number system]] fills these gaps. This is the principal reason for the fundamental role which it plays in analysis.
