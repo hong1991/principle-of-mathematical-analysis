@@ -1,0 +1,2 @@
+Every [[elements and subsets of metric space|neighborhood]] is an open set.
+**Proof:** Consider a neighborhood $E=N_r(p)$, and let $q$ be any point of $E$. Then there is a positive [[real field|real number]] $h$ such that $$d(p,q)=r-h.$$For all points $s$ such that $d(q,s)<h$, we have then $$d(p,s)\le d(p,q)+d(q,s)<r-h+h=r,$$so that $s\in E$. Thus $q$ is an interior point of $E$.
