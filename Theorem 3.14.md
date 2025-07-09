@@ -1,0 +1,2 @@
+Suppose [[sequence]] $(s_n)$ is [[monotonic]]. Then $(s_n)$ [[convergent sequence|converges]] if and only if it is bounded.
+**Proof:** Suppose $s_n\le s_{n+1}$ (the proof is analogous in the other case). Let $E$ be the [[function|range]] of $(s_n$) . If $(s_n)$ is [[convergent sequence|bounded]], let $s$ be the [[bounded|upper bound]] of $E$. Then $$s_n\le s\qquad(n=1,2,3,...).$$For every $\epsilon>0$, there is an integer $N$ such that $$s-\epsilon<s_N\le s,$$for otherwise $s-\epsilon$ would be an upper bound of $E$. Since $(s_n)$ increases $n\le N$ therefore

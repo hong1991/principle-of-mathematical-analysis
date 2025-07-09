@@ -1,3 +1,18 @@
+---
+keywords:
+  - onto
+  - into
+  - function
+  - image
+  - invert image
+  - one-to-one
+  - 1-1
+  - mapping
+  - domain
+  - range
+  - elements
+---
+
 Consider two sets $A$ and $B$, whose elements may be any objects whatsoever, and suppose that with each element $x$ of $A$ there is associated, in some manner, an element of $B$, chich we denote by $f(x)$. 
 Then $f$ is said tobe a **function** from $A$ to $B$ (or a **mapping** of $A$ into $B$). 
 The set $A$ is called the **domain** of $f$ (we also say $f$ is defined on $A$), and the elements $f(x)$ are called the **values** of $f$. 

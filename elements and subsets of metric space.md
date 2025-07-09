@@ -1,3 +1,17 @@
+---
+keywords:
+  - neighborhood
+  - limit point
+  - isolated point
+  - closed
+  - interior
+  - closedcomplement
+  - perfect
+  - bounded
+  - dense
+---
+
+
 Let $X$ be a [[metric space]]. All points and sets mentiond below are understood to be elements and subsets of $X$.
 1. A **neighborhood** of $p$ is a set $N_r(p)$ consisting of all $q$ such that $d(p,q)<r$ for some $r>0$. The number $r$ is called the **radius** of $N_r(p)$.
 2. A point $p$ is a **limit point** of the set $E$ if every neighborhood of $p$ contains a point $q\ne p$ such that $q\in E$.
