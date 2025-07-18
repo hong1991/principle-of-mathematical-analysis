@@ -1,0 +1,3 @@
+Let $X$ and $Y$ be [[metric space]]s; suppose $E\subset X$, $f$ [[function|maps]] $E$ into $Y$, and $p$ is a [[elements and subsets of metric space|limit point]] of $E$. We write $f(x)\to q$ as $x\to p$, or $$\lim_{x\to p}f(x)=q$$if there is a point $q\in Y$ with the following property: For every $\epsilon > 0$ there exists a $\delta>0$ such that $$d_Y(f(x),q)<\epsilon$$for all points $x\in E$ for which $$0<d_X(x,p)<\delta.$$The symbols $d_X$ and $d_Y$ refer to the distances in $X$ and $Y$, respectively.
+It should be noted that $p\in X$, but that $p$ need not be a point of $E$ in the above. Moreover, even if $p\in E$, we may very well have $f(p)\ne \lim_{x\to p}f(x)$.
+We can recast this definition in terms of **limits** of [[sequence]]s.

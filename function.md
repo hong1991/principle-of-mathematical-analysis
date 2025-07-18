@@ -14,7 +14,7 @@ keywords:
 ---
 
 Consider two sets $A$ and $B$, whose elements may be any objects whatsoever, and suppose that with each element $x$ of $A$ there is associated, in some manner, an element of $B$, chich we denote by $f(x)$. 
-Then $f$ is said tobe a **function** from $A$ to $B$ (or a **mapping** of $A$ into $B$). 
+Then $f$ is said to be a **function** from $A$ to $B$ (or a **mapping** of $A$ into $B$). 
 The set $A$ is called the **domain** of $f$ (we also say $f$ is defined on $A$), and the elements $f(x)$ are called the **values** of $f$. 
 The set of all values of $f$ is called the **range** of $f$.
 If $E\subset A$, $f(E)$ is defined to be the set of all elements $f(x)$, for $x\in E$. We call $f(E)$ the **image** of $E$ under $f$. In this notation, $f(A)$ is the range of $f$.
