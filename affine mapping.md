@@ -1,0 +1,3 @@
+A [[function|mapping]] $\mathbf{f}$ that carries a [[vector space]] $X$ into a vector space $Y$ is said to be **affine** if $\mathbf{f}-\mathbf{f}(\mathbf{0})$ is [[linear]]. In other words, the requirement is that $$\mathbf{f}(\mathbf{x})=\mathbf{0}+A\mathbf{x}$$for some $A\in L(X,Y)$.
+
+An **affine mapping** of $\mathbb{R}^k$ into $\mathbb{R}^n$ is thus determined if we know $\mathbf{f}(\mathbf{0})$ and $\mathbf{f}(\mathbf{e}_i)$ for $1\le i \le k$; as usual, $\{\mathbf{e}_1,...,\mathbf{e}_k\}$ is the [[standard basis]] of $\mathbb{R}^k$.

@@ -1,0 +1,1 @@
+We define the **standard simplex** $Q^k$ to be the set of all $\mathbf{u}\in\mathbb{R}^k$ of the form $$\mathbf{u}=\sum_{i=1}^k \alpha_i\mathbf{e}_i$$such that $\alpha_i\ge 0$ for $i=1,...,k$ and $\sum\alpha_i\le 1$.

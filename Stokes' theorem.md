@@ -1,0 +1,1 @@
+If $\Psi$ is a $k$-chain of class
