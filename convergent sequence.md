@@ -9,3 +9,7 @@ A [[sequence]] $(p_n)$ in a [[metric space]] $X$ is said to **converge** if ther
 In this case, we also say that $(p_n)$ converges to $p$, or that $p$ is the limit of $(p_n)$, and we write $p_n\to p$, or $$\lim_{n\to\infty}p_n=p.$$If $(p_n)$ does not converge, it is said to **diverge**.
 
 The sequence $(p_n)$ is said to be **bounded** if its [[function|range]] is [[elements and subsets of metric space|bounded]].
+
+
+Let $(s_n)$ be a sequence of [[real field|real numbers]] with the following property: For every real $M$ there is an integer $N$ such that $n\ge N$ implies $s_n\ge M$. We then write $$s_n\to+\infty.$$
+Similarly, if for every real $M$ there is an integer $N$ such that $n\ge N$ implies $s_n\le M$, we write $$s_n\to-\infty.$$

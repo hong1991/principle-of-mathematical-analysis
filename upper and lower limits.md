@@ -1,0 +1,1 @@
+Let $(s_n)$ be a [[sequence]] of [[real field|real numbers]]. Let $E$ be the set of numbers $x$ (in the [[extended real number system]]) such that $s_{n_k}\to x$ for some [[subsequence]] $(s_{n_k})$. This set $E$ contains all subsequetial limits
